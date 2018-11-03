@@ -1,0 +1,7 @@
+第一个是 jdk的下载以及在电脑上配置Java的环境变量  https://blog.csdn.net/zhys0902/article/details/79499329
+第二个是idea的安装    https://jingyan.baidu.com/article/6d704a135858b928db51ca31.html
+第三个是怎么编写一个程序      从“最后，当然是“接受”了。“   开始往下看 https://www.cnblogs.com/mfcfine/p/9127880.html
+
+
+这就是一个具体的java安装以及使用了
+
