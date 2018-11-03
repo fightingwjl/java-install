@@ -1,7 +1,7 @@
-µÚÒ»¸öÊÇ jdkµÄÏÂÔØÒÔ¼°ÔÚµçÄÔÉÏÅäÖÃJavaµÄ»·¾³±äÁ¿  https://blog.csdn.net/zhys0902/article/details/79499329
-µÚ¶ş¸öÊÇideaµÄ°²×°    https://jingyan.baidu.com/article/6d704a135858b928db51ca31.html
-µÚÈı¸öÊÇÔõÃ´±àĞ´Ò»¸ö³ÌĞò      ´Ó¡°×îºó£¬µ±È»ÊÇ¡°½ÓÊÜ¡±ÁË¡£¡°   ¿ªÊ¼ÍùÏÂ¿´ https://www.cnblogs.com/mfcfine/p/9127880.html
+ç¬¬ä¸€ä¸ªæ˜¯ jdkçš„ä¸‹è½½ä»¥åŠåœ¨ç”µè„‘ä¸Šé…ç½®Javaçš„ç¯å¢ƒå˜é‡  https://blog.csdn.net/zhys0902/article/details/79499329
+ç¬¬äºŒä¸ªæ˜¯ideaçš„å®‰è£…    https://jingyan.baidu.com/article/6d704a135858b928db51ca31.html
+ç¬¬ä¸‰ä¸ªæ˜¯æ€ä¹ˆç¼–å†™ä¸€ä¸ªç¨‹åº      ä»â€œæœ€åï¼Œå½“ç„¶æ˜¯â€œæ¥å—â€äº†ã€‚â€œ   å¼€å§‹å¾€ä¸‹çœ‹ https://www.cnblogs.com/mfcfine/p/9127880.html
 
 
-Õâ¾ÍÊÇÒ»¸ö¾ßÌåµÄjava°²×°ÒÔ¼°Ê¹ÓÃÁË
+è¿™å°±æ˜¯ä¸€ä¸ªå…·ä½“çš„javaå®‰è£…ä»¥åŠä½¿ç”¨äº†     love
 
